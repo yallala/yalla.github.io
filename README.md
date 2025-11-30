@@ -25,4 +25,5 @@ Strategic leader with 19+ years in financial services, now bridging business str
 
 
 ### ✍️ Latest Journal Entry
-- [From Strategy to Syntax: Day 1 Setup](https://yallala.github.io/journal/day-1-setup.md)
+https://yallala.github.io/journal/day-1-setup.html
+
